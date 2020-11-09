@@ -1,2 +1,2 @@
-utality functions for version 2
-system controled change to versions4
+utality functions for version 3
+system controled change to versions6 
